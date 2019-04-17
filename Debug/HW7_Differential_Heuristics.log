@@ -1,0 +1,38 @@
+﻿  Timer.cpp
+  STP.cpp
+c:\users\jarid\desktop\school\single agent search\homeworks\hw7_differential_heuristics\hw7_differential_heuristics\stp.h(57): warning C4100: 'o': unreferenced formal parameter
+  ScenarioLoader.cpp
+  OctileDistance.cpp
+c:\users\jarid\desktop\school\single agent search\homeworks\hw7_differential_heuristics\hw7_differential_heuristics\stp.h(57): warning C4100: 'o': unreferenced formal parameter
+c:\users\jarid\desktop\school\single agent search\homeworks\hw7_differential_heuristics\hw7_differential_heuristics\octiledistance.cpp(13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  ManhattanDistance.cpp
+c:\users\jarid\desktop\school\single agent search\homeworks\hw7_differential_heuristics\hw7_differential_heuristics\stp.h(57): warning C4100: 'o': unreferenced formal parameter
+c:\users\jarid\desktop\school\single agent search\homeworks\hw7_differential_heuristics\hw7_differential_heuristics\manhattandistance.cpp(23): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+c:\users\jarid\desktop\school\single agent search\homeworks\hw7_differential_heuristics\hw7_differential_heuristics\stp.h(57): warning C4100: 'o': unreferenced formal parameter
+c:\users\jarid\desktop\school\single agent search\homeworks\hw7_differential_heuristics\hw7_differential_heuristics\astaropenlist.h(15): warning C4245: 'initializing': conversion from 'int' to '::size_t', signed/unsigned mismatch
+c:\users\jarid\desktop\school\single agent search\homeworks\hw7_differential_heuristics\hw7_differential_heuristics\main.cpp(71): warning C4018: '<': signed/unsigned mismatch
+c:\users\jarid\desktop\school\single agent search\homeworks\hw7_differential_heuristics\hw7_differential_heuristics\main.cpp(104): warning C4100: 'argv': unreferenced formal parameter
+c:\users\jarid\desktop\school\single agent search\homeworks\hw7_differential_heuristics\hw7_differential_heuristics\main.cpp(104): warning C4100: 'argc': unreferenced formal parameter
+  Grid.cpp
+c:\users\jarid\desktop\school\single agent search\homeworks\hw7_differential_heuristics\hw7_differential_heuristics\grid.cpp(51): warning C4244: 'initializing': conversion from 'int' to 'char', possible loss of data
+c:\users\jarid\desktop\school\single agent search\homeworks\hw7_differential_heuristics\hw7_differential_heuristics\grid.cpp(186): warning C4305: 'return': truncation from 'double' to 'float'
+c:\users\jarid\desktop\school\single agent search\homeworks\hw7_differential_heuristics\hw7_differential_heuristics\grid.cpp(187): warning C4305: 'return': truncation from 'double' to 'float'
+c:\users\jarid\desktop\school\single agent search\homeworks\hw7_differential_heuristics\hw7_differential_heuristics\grid.cpp(188): warning C4305: 'return': truncation from 'double' to 'float'
+c:\users\jarid\desktop\school\single agent search\homeworks\hw7_differential_heuristics\hw7_differential_heuristics\grid.cpp(189): warning C4305: 'return': truncation from 'double' to 'float'
+c:\users\jarid\desktop\school\single agent search\homeworks\hw7_differential_heuristics\hw7_differential_heuristics\grid.cpp(197): warning C4305: 'return': truncation from 'double' to 'float'
+  DifferentialHeuristic.cpp
+c:\users\jarid\desktop\school\single agent search\homeworks\hw7_differential_heuristics\hw7_differential_heuristics\stp.h(57): warning C4100: 'o': unreferenced formal parameter
+c:\users\jarid\desktop\school\single agent search\homeworks\hw7_differential_heuristics\hw7_differential_heuristics\astaropenlist.h(15): warning C4245: 'initializing': conversion from 'int' to '::size_t', signed/unsigned mismatch
+c:\users\jarid\desktop\school\single agent search\homeworks\hw7_differential_heuristics\hw7_differential_heuristics\differentialheuristic.cpp(35): warning C4458: declaration of 'pivots' hides class member
+  c:\users\jarid\desktop\school\single agent search\homeworks\hw7_differential_heuristics\hw7_differential_heuristics\differentialheuristic.h(28): note: see declaration of 'DifferentialHeuristic::pivots'
+c:\users\jarid\desktop\school\single agent search\homeworks\hw7_differential_heuristics\hw7_differential_heuristics\differentialheuristic.cpp(53): warning C4458: declaration of 'dh' hides class member
+  c:\users\jarid\desktop\school\single agent search\homeworks\hw7_differential_heuristics\hw7_differential_heuristics\differentialheuristic.h(27): note: see declaration of 'DifferentialHeuristic::dh'
+c:\users\jarid\desktop\school\single agent search\homeworks\hw7_differential_heuristics\hw7_differential_heuristics\differentialheuristic.cpp(53): warning C4100: 'dh': unreferenced formal parameter
+  BFS.cpp
+c:\users\jarid\desktop\school\single agent search\homeworks\hw7_differential_heuristics\hw7_differential_heuristics\stp.h(57): warning C4100: 'o': unreferenced formal parameter
+  Generating Code...
+c:\users\jarid\desktop\school\single agent search\homeworks\hw7_differential_heuristics\hw7_differential_heuristics\grid.cpp(166): warning C4715: 'Grid::Valid': not all control paths return a value
+c:\users\jarid\desktop\school\single agent search\homeworks\hw7_differential_heuristics\hw7_differential_heuristics\grid.cpp(191): warning C4715: 'Grid::GetCost': not all control paths return a value
+  HW7_Differential_Heuristics.vcxproj -> C:\Users\Jarid\Desktop\School\Single Agent Search\Homeworks\HW7_Differential_Heuristics\Debug\HW7_Differential_Heuristics.exe
+  HW7_Differential_Heuristics.vcxproj -> C:\Users\Jarid\Desktop\School\Single Agent Search\Homeworks\HW7_Differential_Heuristics\Debug\HW7_Differential_Heuristics.pdb (Partial PDB)
