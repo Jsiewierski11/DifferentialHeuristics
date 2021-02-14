@@ -1,7 +1,3 @@
-Part of the Single Agent Search class at the University of Denver
-
-***Assignment: Differential Heuristics***
-
 
 ***Task:***
 In this assignment you will implement differential heuristics. In your heuristic you will use an A* search to find the distance to every state from a given pivot. When you need to compute a heuristic between two states, you will look up each of these states in the A* closed list and subtract their g-costs to get the heuristic. (You should take the max of this and octile distance to get the final heuristic.)
